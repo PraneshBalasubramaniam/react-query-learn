@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "heybourn.headwind",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "austenc.tailwind-docs",
+    "stivo.tailwind-fold"
+  ]
+}
